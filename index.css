@@ -1,0 +1,39 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: aqua;
+}
+.list {
+    background-color:white;
+    color: green;
+    padding: 20px;
+    margin: 20px;
+}
+.first {
+    background-color: aquamarine;
+    padding: 20px;
+}
+.unorder1 {
+    background-color: bisque;
+    padding: 20px;
+}
+.second {
+    background-color:blue;
+    color: palevioletred;
+    padding: 20px;
+}
+
+.unorder2 {
+    background-color: black;
+    padding: 20px;
+    color: white;
+    padding: 20px;
+}
+ul {
+    list-style-type: georgian;
+}
+#square {
+    list-style-type: square;
+}
+#disc {
+    list-style-type: disc;
+}
